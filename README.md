@@ -8,6 +8,10 @@ DEV 서버 비용을 줄이고자 도입된 DEV 관리자 디스코드 봇 <br/>
 - python 3.13 - flask 사용
 - AWS CDK 배포
 
+## 아키텍처
+
+![architecture](images/architecture.png)
+
 ## 명령어 소개
 
 ### 1️⃣ `hello`
